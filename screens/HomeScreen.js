@@ -43,7 +43,7 @@ function HomeScreen({navigation}) {
     body.append('file', photo);
     body.append('text', asset.fileName);
     
-    let res = await fetch('URL',{
+    let res = await fetch('https://15zytiytli.execute-api.us-west-2.amazonaws.com/v2/uploadimage',{
       method:'POST',
       body: body,
       headers: {'content-Type': 'multipart/form-data'},
@@ -52,7 +52,7 @@ function HomeScreen({navigation}) {
     let result = await res.json();
     console.log(result);
 
-    let convertapi = await fetch('URL'+ asset.fileName,{
+    let convertapi = await fetch('https://ojqncck5vf.execute-api.ap-northeast-1.amazonaws.com/v1/myfunction?name='+ asset.fileName,{
       method:'GET',
     })
     

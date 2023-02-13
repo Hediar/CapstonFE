@@ -6,14 +6,14 @@ function DetailScreen({route}) {
   const downloadppt = async () => {
     try{
 
-      let res = await fetch('URL', {
+      let res = await fetch('https://15zytiytli.execute-api.us-west-2.amazonaws.com/v2/hknu-pptimage?file=000162E063099-21BBB-B9581-543EF.pptx', {
         method: 'GET'
       })
       let result = await res.json();
       console.log(result);
       let ppturl = result.body.URL;
       console.log(ppturl);
-      Linking.openURL(ppturl);
+      Linking.openURL('https://hknu-pptimage.s3.ap-northeast-2.amazonaws.com/ppt/demo.pptx');
 
     } catch(error){
       console.log('fail download');
