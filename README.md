@@ -14,6 +14,6 @@ React Native 부분 및 API
 open cv를 통해 도형과 글자를 인식하고 파워포인트의 도형객채와 글자객체로 변환하여 파워포인트 작성에 도움을 주려고 한다.
 
 - 개요도
-<img width="80%" src="https://user-images.githubusercontent.com/72387948/226912268-2618708a-fdc8-44b2-9835-2c8751330d64.png"/>
-<img width="80%" src="https://user-images.githubusercontent.com/72387948/226912322-a8b0fef7-c6ec-4654-91c3-a43c5e6fd6b8.png"/>
-<img width="80%" src="https://user-images.githubusercontent.com/72387948/226912428-381a7b4f-9393-41c0-8bd7-d0f9704ac29b.png"/>
+<img width="70%" src="https://user-images.githubusercontent.com/72387948/226912268-2618708a-fdc8-44b2-9835-2c8751330d64.png"/>
+<img width="70%" src="https://user-images.githubusercontent.com/72387948/226912322-a8b0fef7-c6ec-4654-91c3-a43c5e6fd6b8.png"/>
+<img width="70%" src="https://user-images.githubusercontent.com/72387948/226912428-381a7b4f-9393-41c0-8bd7-d0f9704ac29b.png"/>
