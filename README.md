@@ -5,7 +5,7 @@ React Native 부분 및 API
 프로젝트 일정 관리 및 문서 작성
 
 <img width="30%" src="https://user-images.githubusercontent.com/72387948/226912522-50728df4-d3ce-4445-a0a9-bc87de857697.png"/>
-<img width="50%" src="https://user-images.githubusercontent.com/72387948/226912643-444caf4e-c639-420c-8469-23704d01f918.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/72387948/226912643-444caf4e-c639-420c-8469-23704d01f918.png"/>
 
 
 # 개요
