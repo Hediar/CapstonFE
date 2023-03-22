@@ -19,6 +19,6 @@ open cv를 통해 도형과 글자를 인식하고 파워포인트의 도형객�
 <img width="70%" src="https://user-images.githubusercontent.com/72387948/226912428-381a7b4f-9393-41c0-8bd7-d0f9704ac29b.png"/>
 
 # 사용방법
-all branch -> apk 파일 설치 (앱 수행만 가능)
+all branch -> apk 파일 설치 (앱 동작, 이미지 보내기/받기만 가능)
 
 all branch -> 변환 코드 및 시연 테스트자료 -> project.py에서 photo변수에 이미지 넣어 수행해 보아야 함 
