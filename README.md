@@ -3,7 +3,8 @@
 졸업 프로젝트 
 React Native 부분 및 API 
 프로젝트 일정 관리 및 문서 작성
-![그림5](https://user-images.githubusercontent.com/72387948/226912522-50728df4-d3ce-4445-a0a9-bc87de857697.png)
+<img width="80%" src="![그림5](https://user-images.githubusercontent.com/72387948/226912522-50728df4-d3ce-4445-a0a9-bc87de857697.png)"/>
+
 ![온라인부스 대표사진](https://user-images.githubusercontent.com/72387948/226912643-444caf4e-c639-420c-8469-23704d01f918.png)
 
 
